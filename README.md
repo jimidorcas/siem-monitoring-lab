@@ -58,5 +58,5 @@ Panels:
 
 ---
 
-## 📁 Folder Structure
+
 

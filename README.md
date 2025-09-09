@@ -36,14 +36,14 @@ To build a home SOC-style SIEM monitoring setup and showcase skills in log inges
 
 Dashboard Name: **Web SOC Monitoring**
 
-Screenshots can be found in the `/screenshots` folder.
+Screenshots can be found in the `/dashboard` folder.
 
 Panels:
 - Top 10 Most Active IPs  
 - Top 404 Error Generators  
 - Top Requested URLs  
 - Hourly Traffic Trends  
-- Geographic Outliers (if available)
+- Geographic Outliers 
 
 ---
 

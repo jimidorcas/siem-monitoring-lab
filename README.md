@@ -1,4 +1,4 @@
-# SIEM Monitoring Lab — Splunk Home Setup for Threat Detection
+# SIEM Monitoring Lab - Splunk Home Setup for Threat Detection
 
 This project simulates SOC (Security Operations Center) activity using Splunk Cloud to monitor Apache web access logs. It demonstrates my ability to set up a SIEM dashboard, analyze log data for suspicious behavior, and detect potential threats such as reconnaissance, brute-force attempts, and geographic anomalies.
 

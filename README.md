@@ -6,7 +6,7 @@ This project simulates SOC (Security Operations Center) activity using Splunk Cl
 
 ## 🎯 Goal
 
-To build a home SOC-style SIEM monitoring setup and showcase skills in log ingestion, SPL (Search Processing Language), threat hunting, detection use cases, and dashboarding — using Splunk Cloud.
+To build a home SOC-style SIEM monitoring setup and showcase skills in log ingestion, SPL (Search Processing Language), threat hunting, detection use cases, and dashboarding - using Splunk Cloud.
 
 ---
 

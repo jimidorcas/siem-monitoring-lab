@@ -22,7 +22,7 @@ To build a home SOC-style SIEM monitoring setup and showcase skills in log inges
 
 ## 🔍 Detection Use Cases Implemented
 
-| Use Case                             | SPL Query (Simplified)                           |
+| Use Case                             | SPL Query                            |
 |--------------------------------------|--------------------------------------------------|
 | **Top Talkers (Most Active IPs)**    | `| stats count by clientip | sort -count | head 10` |
 | **404 Error Scanners**               | `status=404 | stats count by clientip | sort -count | head 10` |

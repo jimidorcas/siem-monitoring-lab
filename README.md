@@ -24,11 +24,11 @@ To build a home SOC-style SIEM monitoring setup and showcase skills in log inges
 
 | Use Case                             | SPL Query                            |
 |--------------------------------------|--------------------------------------------------|
-| **Top Talkers (Most Active IPs)**    | `stats count by clientip | sort -count | head 10` |
-| **404 Error Scanners**               | `status=404 | stats count by clientip | sort -count | head 10` |
-| **Top Requested URLs**               | `stats count by uri_path | sort -count | head 10` |
-| **Traffic Trends Over Time**         | `timechart count span=1h`                      |
-| **Geographic Outlier IPs**           | `| iplocation clientip … | stats count by Country` |
+| **Top Talkers (Most Active IPs)**    | `stats count by clientip | sort -count | head 10`
+| **404 Error Scanners**               | `status=404 | stats count by clientip | sort -count | head 10`
+| **Top Requested URLs**               | `stats count by uri_path | sort -count | head 10`
+| **Traffic Trends Over Time**         | `timechart count span=1h`                      
+| **Geographic Outlier IPs**           | `iplocation clientip … | stats count by Country`
 
 ---
 

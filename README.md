@@ -46,13 +46,7 @@ Panels:
 - Geographic Outliers 
 
 ---
-
-## 💡 What I Learned
-
-- How to upload logs into Splunk Cloud  
-- How to write SPL queries for security use cases  
-- How to spot suspicious behaviour from log data  
-- How to build and interpret SOC-style dashboards  
+ 
 
 ---
 
